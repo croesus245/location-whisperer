@@ -1,7 +1,5 @@
 Flask
 mysql-connector-python
 python-dotenv
-git add requirements.txt
-git commit -m "Added requirements.txt"
-git push origin main
+
 
